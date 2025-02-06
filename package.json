@@ -1,0 +1,16 @@
+{
+  "name": "send-nodemailer-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.0"
+  }
+}
